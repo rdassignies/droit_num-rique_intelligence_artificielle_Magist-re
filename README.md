@@ -11,6 +11,19 @@ Sur cette page, vous trouverez toutes les informations utiles pour le cours :
 - les exercices pratiques.
 - [Slides de présentation du cours](https://my.beekast.com/kast/6841907a59435da66d5427a8/presentation)
 
+## Modalités d'examen :
+
+    Contrôle continue (40% de la note)
+    ? (60% de la note)
+
+
+## Pour aller plus loin
+
+https://www.youtube.com/c/3blue1brown 
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+
 
 
 
