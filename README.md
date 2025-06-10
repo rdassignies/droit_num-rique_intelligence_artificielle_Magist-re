@@ -16,6 +16,9 @@ Sur cette page, vous trouverez toutes les informations utiles pour le cours :
     Contrôle continue (40% de la note)
     ? (60% de la note)
 
+## Quelques exemples
+https://www.anthropic.com/research/tracing-thoughts-language-model 
+
 
 ## Pour aller plus loin
 
