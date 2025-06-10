@@ -19,6 +19,8 @@ Sur cette page, vous trouverez toutes les informations utiles pour le cours :
 ## Quelques exemples
 https://www.anthropic.com/research/tracing-thoughts-language-model 
 
+## Benchmark
+https://hazyresearch.stanford.edu/legalbench/ 
 
 ## Pour aller plus loin
 
