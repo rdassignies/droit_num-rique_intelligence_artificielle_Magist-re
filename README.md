@@ -16,8 +16,16 @@ Sur cette page, vous trouverez toutes les informations utiles pour le cours :
     Contrôle continue (40% de la note)
     ? (60% de la note)
 
-## Quelques exemples
+## Quelques exemples avancés
+
+### Traçabilité
 https://www.anthropic.com/research/tracing-thoughts-language-model 
+
+### L'impact de l'IA
+https://knightcolumbia.org/content/ai-as-normal-technology 
+
+### Stratégie militaire 
+https://rmt-static-publish.81.cn/file/20250520/97a6f6d175f72cefce3a373280329f36.pdf 
 
 ## Benchmark
 https://hazyresearch.stanford.edu/legalbench/ 
