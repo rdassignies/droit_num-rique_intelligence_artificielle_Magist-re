@@ -41,8 +41,12 @@ Le cas : "J’ai une créance impayée auprès d’un client qui a fait faillite
 https://docs.anthropic.com/en/release-notes/system-prompts#may-22th-2025 
 
 
-## Spécialisation à travers les GPTs
+### Spécialisation à travers les GPTs
 https://chatgpt.com/g/g-67c09f6718588191bacccee247bf2256-analyse-d-arret-de-la-cour-de-cassation
+
+### Un outil personnalisable : NotebookLM
+
+https://notebooklm.google.com/
 
 ## Pour aller plus loin
 
