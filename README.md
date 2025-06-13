@@ -31,10 +31,18 @@ https://rmt-static-publish.81.cn/file/20250520/97a6f6d175f72cefce3a373280329f36.
 https://hazyresearch.stanford.edu/legalbench/ 
 
 ## Prompting
+### InContext learning
 Le cas : "J’ai une créance impayée auprès d’un client qui a fait faillite en juin 2024. Puis-je encore déclarer ma créance sachant que nous sommes le 12 janvier 2025 ?"
 1. Poser la question à un modèle de langage
 2. Ajouter de la connaissance : Fiche déclaration de créance https://drive.google.com/file/d/1ZyZL9uajCLDJGPtoAPEyfPWwPYgqbItr/view?usp=drive_link
 3. Expérimenter le magic prompt "'raisonne étape par étape". Comparer
+
+### Claude Prompt System
+https://docs.anthropic.com/en/release-notes/system-prompts#may-22th-2025 
+
+
+## Spécialisation à travers les GPTs
+https://chatgpt.com/g/g-67c09f6718588191bacccee247bf2256-analyse-d-arret-de-la-cour-de-cassation
 
 ## Pour aller plus loin
 
