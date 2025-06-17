@@ -50,6 +50,9 @@ https://chatgpt.com/g/g-67c09f6718588191bacccee247bf2256-analyse-d-arret-de-la-c
 
 https://notebooklm.google.com/
 
+### Etude du Stanford Transparency Index 
+https://crfm.stanford.edu/fmti/May-2024/index.html 
+
 ## Pour aller plus loin
 
 https://www.youtube.com/c/3blue1brown 
