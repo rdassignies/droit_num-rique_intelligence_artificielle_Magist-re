@@ -51,7 +51,10 @@ https://chatgpt.com/g/g-67c09f6718588191bacccee247bf2256-analyse-d-arret-de-la-c
 https://notebooklm.google.com/
 
 ### Etude du Stanford Transparency Index 
-https://crfm.stanford.edu/fmti/May-2024/index.html 
+https://crfm.stanford.edu/fmti/May-2024/index.html
+
+### Site IA Act 
+https://artificialintelligenceact.eu/fr/evaluation/verificateur-de-conformite-a-l-acte-de-l-ai-de-l-ue/
 
 ## Pour aller plus loin
 
