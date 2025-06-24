@@ -56,6 +56,8 @@ https://crfm.stanford.edu/fmti/May-2024/index.html
 ### Site IA Act 
 https://artificialintelligenceact.eu/fr/evaluation/verificateur-de-conformite-a-l-acte-de-l-ai-de-l-ue/
 
+### Cyberdico
+https://cyber.gouv.fr/publications/cyberdico-quest-ce-que-cest 
 ## Pour aller plus loin
 
 https://www.youtube.com/c/3blue1brown 
