@@ -24,9 +24,6 @@ https://www.anthropic.com/research/tracing-thoughts-language-model
 ### L'impact de l'IA
 https://knightcolumbia.org/content/ai-as-normal-technology 
 
-### Tableau des opérateurs
-https://drive.google.com/file/d/1YQlMzV4powd0HbznThIXwNt2ddFnLIWT/view?usp=sharing 
-
 ### Stratégie militaire 
 https://rmt-static-publish.81.cn/file/20250520/97a6f6d175f72cefce3a373280329f36.pdf 
 
