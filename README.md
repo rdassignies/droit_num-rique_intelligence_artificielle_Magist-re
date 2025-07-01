@@ -34,7 +34,7 @@ https://hazyresearch.stanford.edu/legalbench/
 ### InContext learning
 Le cas : "J’ai une créance impayée auprès d’un client qui a fait faillite en juin 2024. Puis-je encore déclarer ma créance sachant que nous sommes le 12 janvier 2025 ?"
 1. Poser la question à un modèle de langage
-2. Ajouter de la connaissance : Fiche déclaration de créance https://drive.google.com/file/d/1ZyZL9uajCLDJGPtoAPEyfPWwPYgqbItr/view?usp=drive_link
+2. Ajouter de la connaissance 
 3. Expérimenter le magic prompt "'raisonne étape par étape". Comparer
 
 ### Claude Prompt System
